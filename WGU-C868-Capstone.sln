@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WGU-C868-Capstone.Android", "WGU-C868-Capstone\WGU-C868-Capstone.Android\WGU-C868-Capstone.Android.csproj", "{C2ABE1CA-4BCE-4ABF-B937-A9B244A55229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WGU-C868-Capstone", "WGU-C868-Capstone\WGU-C868-Capstone\WGU-C868-Capstone.csproj", "{3A93F58D-402D-4502-86FE-73D0A7A5B3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2ABE1CA-4BCE-4ABF-B937-A9B244A55229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2ABE1CA-4BCE-4ABF-B937-A9B244A55229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2ABE1CA-4BCE-4ABF-B937-A9B244A55229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2ABE1CA-4BCE-4ABF-B937-A9B244A55229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A93F58D-402D-4502-86FE-73D0A7A5B3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A93F58D-402D-4502-86FE-73D0A7A5B3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A93F58D-402D-4502-86FE-73D0A7A5B3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A93F58D-402D-4502-86FE-73D0A7A5B3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B570D60A-CB56-4345-9A91-ADD5DADB797D}
+	EndGlobalSection
+EndGlobal
